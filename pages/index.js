@@ -185,7 +185,7 @@ export default function Home() {
             <div className='basis-1/3 flex-1'><Image src={web4}alt="alt" classNamer='ounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/></div>
             <div className='basis-1/3 flex-1'><Image src={web5}alt="alt" className='rounded-lg object-cover' width={'100%'} height={'100%'} layout='responsive'/></div>
             <div className='basis-1/3 flex-1'><Image src={web6}alt="alt" className='rounded-lg object-cover'  width={'100%'} height={'100%'} layout='responsive'/></div>
-'
+
 
 
 
