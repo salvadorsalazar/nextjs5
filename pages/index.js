@@ -66,9 +66,9 @@ export default function Home() {
           </div>
        
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-              <AiFillTwitterCircle />
-              <AiFillLinkedin />
-              <AiFillYoutube />
+              <AiFillTwitterCircle alt="alt"/>
+              <AiFillLinkedin alt="alt"/>
+              <AiFillYoutube alt="alt"/>
           </div>
             <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full  w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96'>
                       <Image src={sal} alt="alt" layout="fill" objectFit="cover" />
